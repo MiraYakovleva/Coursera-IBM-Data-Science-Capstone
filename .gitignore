@@ -1,0 +1,75 @@
+# ========================
+# macOS system files
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+.history/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pyo
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ========================
+# Data science files
+# ========================
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.arrow
+*.json
+*.xlsx
+*.xls
+*.log
+
+# Large model or binary files
+*.h5
+*.hdf5
+*.model
+*.bin
+
+# Plots, outputs
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# ========================
+# Environment / config
+# ========================
+.env
+*.env
+*.ini
+
+# ========================
+# Other
+# ========================
+*.zip
+*.tar
+*.gz
+*.rar
