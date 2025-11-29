@@ -45,6 +45,9 @@ data/
 *.xlsx
 *.xls
 *.log
+*.db
+*.sqlite
+*.sqlite3
 
 # Large model or binary files
 *.h5
